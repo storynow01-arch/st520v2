@@ -1,0 +1,8 @@
+{
+  "name": "Countdown Timer",
+  "description": "一個精美、流暢且具高質感的單頁倒數計時器系統，支援預設專注模式、自訂時分秒、Web Audio 音效提示與動態環狀進度條。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
